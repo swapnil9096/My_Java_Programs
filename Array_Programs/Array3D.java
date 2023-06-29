@@ -2,7 +2,9 @@ package Array_Programs;
 
 public class Array3D {
 public static void main(String[] args) {
-	int [][][] a= {{{1,2,3,4},{5,6,7,8},{9,8,7,6}},{{10,11,12,13},{14,15,16,17},{18,19,20,21}}};
+	int [][][] a= {{{1,2,3,4},{5,6,7,8},{9,8,7,6}},
+				   {{10,11,12,13},{14,15,16,17},{18,19,20,21}}
+	  			  };
 	
 	System.out.println(a.length);
 	System.out.println(a[0].length);

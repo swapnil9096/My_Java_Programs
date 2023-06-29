@@ -1,7 +1,7 @@
 package changingNonPremitiveDataTypes;
 
 public class Pranav {
-Pranav wedsShital()
+Pranav hello()
 {
 	System.out.println("Shaadi");
 return new Pranav();

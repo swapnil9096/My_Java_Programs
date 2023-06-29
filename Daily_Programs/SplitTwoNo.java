@@ -7,8 +7,8 @@ public class SplitTwoNo {
 		a = a + b;// 30
 		b = a - b;// 30-20=10
 		a = a - b;
-		System.out.println(a);
-		System.out.println(b);
+		System.out.println("A=> : " + a);
+		System.out.println("B=> : " + b);
 	}
 
 }

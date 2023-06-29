@@ -8,6 +8,7 @@ public class FindOccurancesOfCharactor {
 	public static void main(String[] args) {
 		Map<Character, Integer> map = new HashMap<>();
 		String s1 = "java is awesome";
+		
 		for (int i = 0; i < s1.length(); i++)
 		{
 			if (map.get(s1.charAt(i)) == null) 

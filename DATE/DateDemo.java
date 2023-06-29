@@ -13,7 +13,7 @@ public class DateDemo {
 	public static void main(String[] args) {
 
 		Date d= new Date();
-		System.out.println(d); //this gives current date
+		System.out.println(d); // gives current date
 		
 		
 		int dayValue =d.getDate();//It gives only Day in integer

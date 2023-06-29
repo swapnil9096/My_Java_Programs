@@ -1,6 +1,6 @@
 package LambdaExpressions;
 
-//Anottion
+//Anotation
 @FunctionalInterface
 public interface MyInterface {
 	void printNo();

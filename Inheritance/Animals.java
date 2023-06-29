@@ -5,6 +5,7 @@ public class Animals
 	String type;
 	int noOfLegs=10;
 	boolean gender;
+	
 	void walk()  //this method is going to override in child method dog to 	
 	{
 	 System.out.println("Animal walks");//explain access modifier

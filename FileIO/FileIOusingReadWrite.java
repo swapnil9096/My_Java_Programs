@@ -9,9 +9,9 @@ public class FileIOusingReadWrite {
 
 	public static void main(String[] args) {
 		try {
-			FileReader a = new FileReader("D:\\ECLIPSE\\Happy_Diwali\\src\\FileIO\\Demo");
+			FileReader a = new FileReader("D:\\ECLIPSE\\Happy_Diwali\\src\\FileIO\\Demo3");
 
-			FileWriter b = new FileWriter("D:\\ECLIPSE\\Happy_Diwali\\src\\FileIO\\Demo3");
+			FileWriter b = new FileWriter("D:\\ECLIPSE\\Happy_Diwali\\src\\FileIO\\Demo");
 
 			for (int c; (c = a.read()) != -1;)
 			b.write(c);

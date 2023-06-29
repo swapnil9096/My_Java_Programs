@@ -4,8 +4,8 @@ package Daily_Programs;
 public class StringCompare {
 
 	public static void main(String[] args) {
-		String s1 = "Swapnil";
-		String s2 = new String("Swapnil");
+		String s1 = "Sswapnil";
+		String s2 = new String("SSwapnil");
 
 		if (s1.length() != s2.length()) {
 			System.out.println(s1 + " Is NOT equal to " + s2);

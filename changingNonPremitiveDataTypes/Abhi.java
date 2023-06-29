@@ -1,9 +1,9 @@
 package changingNonPremitiveDataTypes;
 
 public class Abhi {
-Abhi wedsShital()
+Abhi hello()
 {
 	System.out.println("Abbushek");
-return new Abhi();
+	return new Abhi();
 }
 }

@@ -9,7 +9,7 @@ public class METHODDEMO {
 
 	void str() {
 		System.out.println(a);
-		System.out.println("pillu");
+		System.out.println("hello");
 	}
 
 	public static void main(String[] args) {
